@@ -1,15 +1,23 @@
 # Product Recommendation System
 
-## Description
-Recommendation engine designed to suggest products based on user behavior.
+## Project Overview & Methodology
 
-## Category
-Predictive Modeling
+# Item-to-Item Product Recommendation by Collaborative Filtering
 
-## Tech Stack / Tags
-- Python
-- Machine Learning
-- Recommendation
+Data source: Online Retail Data Set from UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/online+retail)
+
+**Load & Prepare the Data**
+
+**Calculate the Item to Item similarity by Cosine Similarity**
+
+
+
+## Tech Stack & Libraries Used
+
+- `pandas`
+- `sklearn`
+- `seaborn`
+- `matplotlib`
 
 ---
 *This repository is part of my AI Engineer / Data Scientist Portfolio.*
